@@ -11,7 +11,7 @@ mutations into subsequent generations.
 
 Fitnesses can be calculated across a population using parallel threads.
 
-## Sudoku example
+## Sudoku example
 
 ``` rust
 extern crate spiril;
