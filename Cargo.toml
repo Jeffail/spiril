@@ -1,0 +1,8 @@
+[package]
+name = "spiril"
+version = "0.1.0"
+authors = ["jeffail <ash@jeffs.eu>"]
+
+[dependencies]
+rand = "0.3"
+crossbeam = "0.3"
