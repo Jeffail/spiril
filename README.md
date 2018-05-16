@@ -132,10 +132,3 @@ fn main() {
         .fitness(), 1.0);
 }
 ```
-
-## Contact
-
-Ashley Jeffs
-* Web: [http://jeffs.eu](http://jeffs.eu)
-* Twitter: [@Jeffail](https://twitter.com/Jeffail "@jeffail")
-* Email: [ash@jeffs.eu](mailto:ash@jeffs.eu)
